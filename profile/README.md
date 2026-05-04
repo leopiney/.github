@@ -6,7 +6,7 @@
 
 # Hi, I'm Leo
 
-Software engineer, occasional Haskell enjoyer, and **co-founder & CTO at [Pento AI](https://pento.ai)**, where we design, build, and ship AI systems that move metrics, not slides. Based in Montevideo. I work across the stack: ML, full-stack, and the cloud infrastructure that has to keep all of it standing.
+Software engineer, occasional Haskell enjoyer, and **co-founder & CTO at [Pento AI](https://pento.ai)**. Based in Montevideo. I work across the stack: AI harnesses, ML, full-stack, and the cloud infrastructure that has to keep all of it standing.
 
 Heads down on **[Steerdev](https://steerdev.com)**, our AI-assisted developer workflow platform.
 
