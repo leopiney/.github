@@ -18,7 +18,7 @@ I like ideas that survive contact with production, weekend projects that refuse 
 - **[linus-torvalds-skills](https://github.com/leopiney/linus-torvalds-skills)**. A doctrine for making AI coding assistants behave more like Linus Torvalds: blunt, pragmatic, data-structure-first, allergic to bloat.
 - **[deep-forest](https://github.com/leopiney/deep-forest)**. An implementation of the gcForest algorithm, an alternative to deep neural networks for structured data.
 - **[tensor-safe](https://github.com/leopiney/tensor-safe)**. A Haskell framework for defining type-safe deep learning models and exporting them to TensorFlow/Keras.
-- **[elevenscribe](https://github.com/leopiney/elevenscribe)**. A small ElevenLabs Scribe v2 client so I don't have to pay for a transcription subscription.
+- **[wolfbud](https://github.com/leopiney/wolfbud)**. A small ElevenLabs Scribe v2 wrapper client so I don't have to pay for a transcription subscription (WhisperFlow/Monologue/SuperWhisper).
 
 ### Elsewhere
 
